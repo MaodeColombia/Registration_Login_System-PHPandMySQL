@@ -5,3 +5,9 @@ En este tutorial, recorremos el proceso completo de creación de un sistema de r
 Además, le mostraremos cómo crear páginas seguras a las que solo acceden los usuarios registrados. Sin inicio de sesión, el usuario no puede acceder a la página.
 
 [Create a Registration and Login System with PHP and MySQL](https://speedysense.com/create-registration-login-system-php-mysql/)
+
+<br>
+
+[Secure Registration System with PHP and MySQL](https://codeshack.io/secure-registration-system-php-mysql/)
+
+[Secure Login System with PHP and MySQL](https://codeshack.io/secure-login-system-php-mysql/)
